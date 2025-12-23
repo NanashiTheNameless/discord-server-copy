@@ -1,5 +1,7 @@
 # Discord Server Cloner
 
+*no longer maintained.*
+
 Clone an entire Discord server seamlessly without risking a ban. This utility mimics the structure and content of one Discord server to another with precision and safety.
 
 Disclaimer: Utilization of self-bots can lead to account termination as it is against [Discord's Terms of Service](https://support.discord.com/hc/en-us/articles/115002192352-Automated-User-Accounts-Self-Bots).
@@ -47,7 +49,7 @@ Commands can include server IDs to specify source and destination servers:
 Config settings can be adjusted on-the-fly via clone commands, e.g., 
 `cp!clone from=1337 live_update=true clone_message=false`
 
-More detailed command help in "help" command, e.g. `cp!help`
+More detailed help in "help" command, e.g. `cp!help`
 
 ### Arguments List
 
